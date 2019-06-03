@@ -1,6 +1,6 @@
 # flutter_action_button
 
-A new Flutter application.
+A [Floating Action Button Interaction](https://dribbble.com/shots/6288899-Floating-Action-Button-Interaction) implementation by Mauricio Bucardo
 
 ## Getting Started
 
